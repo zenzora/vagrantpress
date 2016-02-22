@@ -43,8 +43,8 @@ The procedure for starting up a working WordPress is as follows:
 1. Clone the project.  (There’s only master branch.)
 2. ~~Run `vagrant plugin install vagrant-hostsupdater` from command line~~
 3. Run the command `vagrant up` from the directory
-4. Update your hosts file (or not)
-5. Open your browser to http://vagrantpress.dev or http://192.168.50.34/
+4. Update your hosts file 
+5. Open your browser to http://vagrantpress.dev 
 
 ## Working with the environment
 
