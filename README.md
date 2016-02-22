@@ -52,9 +52,9 @@ To log in to the local Wordpress installation:
 
 `http://vagrantpress.dev/wp-admin/` the username is `admin`, the password is `vagrant`.
 
-You can access phpMyAdmin:
+~~You can access phpMyAdmin:~~
 
-`http://vagrantpress.dev/phpmyadmin/` with username `wordpress`, password `wordpress`.
+~~`http://vagrantpress.dev/phpmyadmin/` with username `wordpress`, password `wordpress`.~~
 
 ## A Few Details
 
